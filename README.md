@@ -29,7 +29,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,java,php,dotnet,html,css,js,react,sqlserver,mysql,git,github,postman,vscode,bash,&perline=4" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,react,bootstrap,tailwind,mysql,git,github,postman,vscode,bash,npm,&perline=4" />
   </a>
 </p>
 <br>
