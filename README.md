@@ -19,7 +19,7 @@
 - :technologist: **Lo que más me apasiona es el** `Front-End`
 - :boom: Puedes visitar [Mi Sitio Web](https://Albert'Valdemora.vercel.app/) 
 - :email: No dudes en **contactarme** [![Send me Email](https://img.shields.io/static/v1?label=GMAIL&amp;message=Albert&amp;color=EA4335&amp;style=flat-square)](mailto:albertvaldemorat@gmail.com)
-- :nerd_face: Siempre creo que `"Los sueños se construyen"`
+- :nerd_face: "Siempre he creído que `"Los sueños se construyen"`
 
 
 
