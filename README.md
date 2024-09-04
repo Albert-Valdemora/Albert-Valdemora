@@ -18,7 +18,7 @@
 - :school: Soy estudiante de `término` en el [Instituto Tecnológico de las Américas (ITLA) en Desarrollo de Software](https://itla.edu.do/)
 - :technologist: **Lo que más me apasiona es el** `Front-End`
 - :boom: Puedes visitar [Mi Sitio Web](https://Albert'Valdemora.vercel.app/) 
-- :email: No dudes en **contactarme** [![Send me Email](https://img.shields.io/static/v1?label=GMAIL&amp;message=Albert&amp;color=EA4335&amp;style=flat-square)](mailto:albertvaldemora@gmail.com)
+- :email: No dudes en **contactarme** [![Send me Email](https://img.shields.io/static/v1?label=GMAIL&amp;message=Albert&amp;color=EA4335&amp;style=flat-square)](mailto:albertvaldemorat@gmail.com)
 - :nerd_face: Siempre creo que `"Los sueños se construyen"`
 
 
